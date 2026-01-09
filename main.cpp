@@ -272,7 +272,7 @@ void opcontrol() {
         else if (L1) {
             intake1.move(120);
             intake2.move(40);
-            intake3.move(-35);
+            intake3.move(-55);
 
             r1_press_time = 0;
         }
